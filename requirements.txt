@@ -1,0 +1,19 @@
+streamlit
+gTTS==2.2.2
+googletrans==3.1.0a0
+textblob==0.17.1
+streamlit-webrtc
+
+Jinja2 >=2.9
+contourpy >=1
+numpy >=1.16
+packaging >=16.8
+pandas >=1.2
+pillow >=7.1.0
+PyYAML >=3.10
+opencv-python-headless
+pytesseract
+tornado >=5.1
+xyzservices >=2021.09.1
+bokeh==2.4.3
+Streamlit-bokeh-events
